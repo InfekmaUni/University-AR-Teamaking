@@ -2,7 +2,7 @@
 
 Second semester MEng games developed project for the hololens, aimed at guiding players through the steps of making tea for everyday mental healthcare.
 
-Using the HoloSDK with the hololens device and or holo emulator (run in exported UWP APP) on the Unity3d with HoloTK.
+Made Using the HoloSDK with the hololens device and or holo emulator (run in exported UWP APP) developed on Unity3d with HoloTK.
 
 # Features:
 Voice Commands
