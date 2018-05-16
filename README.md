@@ -17,3 +17,6 @@ Animated object interactions
 
 # Video
 [![Augmented Reality](https://img.youtube.com/vi/bij-FWAYmGQ/0.jpg)](https://www.youtube.com/watch?v=bij-FWAYmGQ)
+
+Sources:
+https://docs.microsoft.com/en-us/windows/mixed-reality/academy
